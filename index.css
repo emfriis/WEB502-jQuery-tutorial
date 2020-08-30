@@ -1,0 +1,38 @@
+.selectors3 {
+    max-width: 100px;
+    max-height: auto;
+}
+
+.attributes1 {
+    max-width: 100px;
+    max-height: auto;
+}
+
+.attributes2 {
+    max-width: 100px;
+    max-height: auto;
+}
+
+.attributes3 {
+    max-width: 100px;
+    max-height: auto;
+}
+
+.addremoveclasses1 {
+    color: black;
+}
+
+.addremoveclasses1-1 {
+    background-color: red;
+    text-decoration: underline;
+}
+
+.addremoveclasses2 {
+    background-color: red;
+    text-decoration: underline;
+}
+
+.toggleclass1-1 {
+    background-color: red;
+    text-decoration: underline;
+}
